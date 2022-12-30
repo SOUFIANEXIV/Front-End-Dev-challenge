@@ -5,7 +5,7 @@ let condidates=[
     email:"emilyselman@exemple.com",
     applied:"Applied on January 7,2020",
     phone:" Completed phone screening",
-    image:'/image/admin.jpg'
+    image:'./image/admin.jpg'
 },
 {
     id:1,
@@ -13,7 +13,7 @@ let condidates=[
     email:"emilyselman@exemple.com",
     applied:"Applied on January 7,2020",
     phone:" Completed phone screening",
-    image:'/image/admin.jpg'
+    image:'./image/admin.jpg'
 
 },
 {
@@ -22,7 +22,7 @@ let condidates=[
     email:"emilyselman@exemple.com",
     applied:"Applied on January 7,2020",
     phone:" Completed phone screening",
-    image:'/image/messi.jpg'
+    image:'./image/messi.jpg'
 
 },
 {
@@ -31,7 +31,7 @@ let condidates=[
     email:"emilyselman@exemple.com",
     applied:"Applied on January 7,2020",
     phone:" Completed phone screening",
-    image:'/image/admin.jpg'
+    image:'./image/admin.jpg'
 
 },
 {
@@ -40,7 +40,7 @@ let condidates=[
     email:"emilyselman@exemple.com",
     applied:"Applied on January 7,2020",
     phone:" Completed phone screening",
-    image:'/image/admin.jpg'
+    image:'./image/admin.jpg'
 
 },
 {
@@ -49,7 +49,7 @@ let condidates=[
     email:"emilyselman@exemple.com",
     applied:"Applied on January 7,2020",
     phone:" Completed phone screening",
-    image:'/image/admin.jpg'
+    image:'./image/admin.jpg'
 
 },
 {
@@ -58,7 +58,7 @@ let condidates=[
     email:"emilyselman@exemple.com",
     applied:"Applied on January 7,2020",
     phone:" Completed phone screening",
-    image:'/image/admin.jpg'
+    image:'./image/admin.jpg'
 
 },
 {
@@ -67,7 +67,7 @@ let condidates=[
     email:"emilyselman@exemple.com",
     applied:"Applied on January 7,2020",
     phone:" Completed phone screening",
-    image:'/image/bobo.png'
+    image:'./image/bobo.png'
 
 },
 {
@@ -76,7 +76,7 @@ let condidates=[
     email:"emilyselman@exemple.com",
     applied:"Applied on January 7,2020",
     phone:" Completed phone screening",
-    image:'/image/admin.jpg'
+    image:'./image/admin.jpg'
 
 },
 {
@@ -85,7 +85,7 @@ let condidates=[
     email:"emilyselman@exemple.com",
     applied:"Applied on January 7,2020",
     phone:" Completed phone screening",
-    image:'/image/admin.jpg'
+    image:'./image/admin.jpg'
 
 },
 {
@@ -94,7 +94,7 @@ let condidates=[
   email:"emilyselman@exemple.com",
   applied:"Applied on January 7,2020",
   phone:" Completed phone screening",
-  image:'/image/admin.jpg'
+  image:'./image/admin.jpg'
 
 },
 {
@@ -103,7 +103,7 @@ let condidates=[
   email:"emilyselman@exemple.com",
   applied:"Applied on January 7,2020",
   phone:" Completed phone screening",
-  image:'/image/admin.jpg'
+  image:'./image/admin.jpg'
 
 },
 {
@@ -112,7 +112,7 @@ let condidates=[
   email:"emilyselman@exemple.com",
   applied:"Applied on January 7,2020",
   phone:" Completed phone screening",
-  image:'/image/admin.jpg'
+  image:'./image/admin.jpg'
 
 },
 
