@@ -115,6 +115,34 @@ let condidates=[
   image:'./image/admin.jpg'
 
 },
+{
+  id:13,
+  name:"Emily Selman",
+  email:"emilyselman@exemple.com",
+  applied:"Applied on January 7,2020",
+  phone:" Completed phone screening",
+  image:'./image/admin.jpg'
+
+},
+{
+  id:14,
+  name:"Emily Selman",
+  email:"emilyselman@exemple.com",
+  applied:"Applied on January 7,2020",
+  phone:" Completed phone screening",
+  image:'./image/admin.jpg'
+
+},
+{
+  id:15,
+  name:"Emily Selman",
+  email:"emilyselman@exemple.com",
+  applied:"Applied on January 7,2020",
+  phone:" Completed phone screening",
+  image:'./image/admin.jpg'
+
+},
+
 
 ]
 const allCondidates= document.querySelector('.condidates');
@@ -200,23 +228,23 @@ function displayPaginationControls() {
       <div >
     <ul class="flex">
       <li>
-        <a href="#" class="px-3 py-2 leading-tight text-gray-500  hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800  dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">1</a>
+        <a href="#" class="px-3 py-2 leading-tight text-gray-500  hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 ">1</a>
       </li>
      
       <li>
-        <a href="#" aria-current="page" class="px-3 py-2 text-purple-800 border-t-[2px]  border-purple-700 z-10 hover:bg-blue-100 hover:text-blue-700 dark:border-gray-700 dark:bg-gray-700 dark:text-white">2</a>
+        <a href="#" aria-current="page" class="px-3 py-2 text-purple-800 border-t-[2px]  border-purple-700 z-10 hover:bg-blue-100 hover:text-blue-700  ">2</a>
       </li>
       <li>
-        <a href="#" class="px-3 py-2 leading-tight text-gray-500 bg-white  hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">3</a>
+        <a href="#" class="px-3 py-2 leading-tight text-gray-500 bg-white  hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800  ">3</a>
       </li>
       <li>
-        <a href="#" class="px-3 py-2 leading-tight text-gray-500 bg-white  hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">4</a>
+        <a href="#" class="px-3 py-2 leading-tight text-gray-500 bg-white  hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800  ">4</a>
       </li>
       <li>
-        <a href="#" class="px-3 py-2 leading-tight text-gray-500 bg-white  hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">5</a>
+        <a href="#" class="px-3 py-2 leading-tight text-gray-500 bg-white  hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800  ">5</a>
       </li>
       <li>
-        <a href="#" class="px-3 py-2 leading-tight text-gray-500 bg-white  hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">6</a>
+        <a href="#" class="px-3 py-2 leading-tight text-gray-500 bg-white  hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 ">6</a>
       </li>
       <li></ul>
   </div>
